@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Rubik');
+
+.cff-Mts {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.fd-12 {
+    font-size: 12px !important;
+}
+
+.fd-15 {
+    font-size: 15px !important;
+}
+
+.fd-21 {
+    font-size: 21px !important;
+}
+
+
+.fw-bold {
+    font-weight: bold !important;
+}
+
+
+
+.fw-light {
+    font-weight: 200 !important;
+}
+
+.fw-100 {
+    font-weight: 100 !important;
+}
+.fw-200 {
+    font-weight: 200 !important;
+}
+.fw-300 {
+    font-weight: 300 !important;
+}
+
+.fw-400 {
+    font-weight: 400 !important;
+}
+
+.fw-500 {
+    font-weight: 500 !important;
+}
+
+.fw-600 {
+    font-weight: 600 !important;
+}
+
+.fw-700 {
+    font-weight: 700 !important;
+}
+
+.c-h1 {
+    font-size: 2.67em !important;
+}
+
+.c-h2 {
+    font-size: 2em !important;
+}
+
+.c-h3 {
+    font-size: 1.77em !important;
+}
+
+.c-h4 {
+    font-size: 1.5em !important;
+}
+
+.c-h5 {
+    font-size: 1.33em !important;
+}
+
+.c-text-1 {
+    font-size: 1.11em !important;
+}
+
+.cs-text-1 {
+    font-size: 16px !important;
+}
+
+.cs-text-3 {
+    font-size: 12px !important;
+}
+
+.c-text-3 {
+    font-size: 0.9em !important;
+}
+
+.c-text-4 {
+    font-size: 0.8em !important;
+}
+
+.c-text-5 {
+    font-size: 0.77em !important;
+}
+
+.c-text-6 {
+    font-size: 0.7em !important;
+}
+
+.lh-12 {
+    line-height: 1.2 !important;
+}
